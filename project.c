@@ -36,8 +36,8 @@ void laptops()
         {"Gigabyte AORUS 15G", 152000, "Intel i7, 16GB RAM, 1TB SSD, 15.6\" Full HD 240Hz Display"},
         {"Alienware m15 R6", 176000, "Intel i7, 16GB RAM, 512GB SSD, 15.6\" 165Hz Full HD Display"},
         {"Lenovo Yoga C940", 104000, "Intel i7, 16GB RAM, 512GB SSD, 14\" 4K Touchscreen"},
-        {"Acer Swift 3", 56000, "AMD Ryzen 5, 8GB RAM, 256GB SSD, 14\" Full HD Display"} {
-            "Lenovo ThinkPad X1 Yoga (2021)", 145000, "Intel i7, 16GB RAM, 512GB SSD, 14\" 4K Touchscreen"},
+        {"Acer Swift 3", 56000, "AMD Ryzen 5, 8GB RAM, 256GB SSD, 14\" Full HD Display"}, 
+        {"Lenovo ThinkPad X1 Yoga (2021)", 145000, "Intel i7, 16GB RAM, 512GB SSD, 14\" 4K Touchscreen"},
         {"Dell Alienware X17", 220000, "Intel i9, 32GB RAM, 1TB SSD, 17.3\" Full HD 360Hz Display"},
         {"Apple MacBook Pro 14\" (2021)", 174000, "Apple M1 Pro, 16GB RAM, 512GB SSD, 14\" Retina Display"},
         {"HP Pavilion x360", 90000, "Intel i7, 16GB RAM, 512GB SSD, 14\" Full HD Touchscreen"},
